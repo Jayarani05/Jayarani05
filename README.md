@@ -1,7 +1,7 @@
 <h1 align="center">Jaya Rani</h1>
 
 <p align="center">
-  ☕ Java Backend Engineer &nbsp;·&nbsp; 🧩 Microservices &nbsp;·&nbsp; 🌐 Distributed Systems
+  ☕ Java Backend Engineer &nbsp;·&nbsp; 🧩 Microservices Architect &nbsp;·&nbsp; 🌐 Distributed Systems
 </p>
 
 <p align="center">
@@ -14,82 +14,97 @@
 
 ---
 
-## ✨ Profile
+## ✨ About Me
 
-I am a **Java Backend Engineer** with a strong inclination towards  
-**building scalable, resilient, and well-structured backend systems**.
+🚀 Passionate **Java Backend Engineer** focused on designing  
+**scalable, resilient, and production-grade backend systems**.
 
-I enjoy working at the system level —  
-where **services communicate**, **messages flow**, and **architecture matters**.
+I enjoy working where:
+- systems communicate asynchronously
+- data flows through services
+- architecture decisions truly matter
 
-My focus is not just on writing code,  
-but on **designing systems that remain reliable as they grow**.
-
----
-
-## 🧠 Core Expertise
-
-### ☕ Backend Foundations
-- **Java**
-- Spring Boot
-- RESTful API Design
-- Object-Oriented Programming
-- SOLID Principles
-
-### 🧩 Distributed Systems & Messaging
-- **Apache Kafka** — event streaming, consumer groups
-- **RabbitMQ** — message queues, async workflows
-- Event-Driven Microservices
-- Loose coupling & fault tolerance
-
-### 🗄️ Data & Persistence
-- PostgreSQL
-- MySQL
-- MongoDB
-- Schema design & query optimization
-
-### ☁️ Cloud & Infrastructure
-- **AWS** (EC2, S3, IAM)
-- Docker & containerized services
-- Cloud-ready backend design
-
-### 🛠️ Engineering Discipline
-- Clean Architecture
-- Git & GitHub
-- API testing & documentation
-- Maintainable, readable code
+I don’t just build features —  
+I build **systems that survive scale and change**.
 
 ---
 
-## 🎯 Technical Focus
+## 🧠 Tech Stack
 
-- Microservices communication patterns  
-- High-throughput message processing  
-- Backend scalability & reliability  
-- Long-term system maintainability  
+### ☕ Backend & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
+</p>
+
+### 🧩 Microservices & Messaging
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</p>
+
+### 🛠️ Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+</p>
+
+---
+
+## 🎯 Engineering Focus
+
+🔹 Microservices communication patterns  
+🔹 Event-driven architecture  
+🔹 Message queues & streaming systems  
+🔹 Backend scalability & fault tolerance  
+🔹 Clean Architecture & SOLID principles  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaya05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaya05&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaya05&theme=radical&border_radius=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaya05&theme=react-dark&bg_color=0d1117&hide_border=true"/>
+</p>
 
 ---
 
 ## 🧠 Problem Solving
 
-Actively practicing **Data Structures & Algorithms**, focusing on:
-- Logical clarity
-- Optimal approaches
-- Clean, readable solutions
+💡 Actively practicing **Data Structures & Algorithms** with focus on:
+- optimal solutions
+- clean logic
+- readability under pressure
 
-🔗 LeetCode  
+🔗 LeetCode Profile  
 https://leetcode.com/u/jayaranimanimaran/
 
 ---
 
 ## 🌐 Portfolio
 
+✨ Explore my work and system-oriented projects  
 🔗 https://jayarani.vercel.app/
-
-Showcasing:
-- Java backend projects
-- Microservices-based systems
-- Architecture-driven development
 
 ---
 
@@ -102,6 +117,6 @@ https://www.linkedin.com/in/jayarani-m-28b9b9297/
 
 <p align="center">
   <em>
-    “I build backend systems that are calm under pressure and elegant by design.”
+    “Backend systems should feel invisible — stable, reliable, and powerful.”
   </em>
 </p>
