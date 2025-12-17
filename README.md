@@ -1,7 +1,7 @@
-<h1 align="center">Jaya Rani</h1>
+<h1 align="center">✨ Jaya Rani ✨</h1>
 
 <p align="center">
-  ☕ Java Backend Engineer &nbsp;·&nbsp; 🧩 Microservices Architect &nbsp;·&nbsp; 🌐 Distributed Systems
+  ☕ Java Backend Engineer &nbsp;·&nbsp; 🧩 Microservices Architect &nbsp;·&nbsp; 🌐 Distributed Systems Enthusiast
 </p>
 
 <p align="center">
@@ -10,22 +10,20 @@
   <a href="https://leetcode.com/u/jayaranimanimaran/">🧠 LeetCode</a>
 </p>
 
-<br/>
-
 ---
 
-## ✨ About Me
+## 🚀 About Me
 
-🚀 Passionate **Java Backend Engineer** focused on designing  
-**scalable, resilient, and production-grade backend systems**.
+I am a **Java Backend Engineer** who enjoys building  
+**scalable, fault-tolerant, and production-ready systems**.
 
-I enjoy working where:
-- systems communicate asynchronously
-- data flows through services
-- architecture decisions truly matter
+What excites me:
+- asynchronous service communication  
+- event-driven systems  
+- backend architectures that scale under load  
 
-I don’t just build features —  
-I build **systems that survive scale and change**.
+I don’t just write code —  
+I **engineer systems that survive real-world traffic**.
 
 ---
 
@@ -48,23 +46,23 @@ I build **systems that survive scale and change**.
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" />
 </p>
 
 ### 🛠️ Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux" />
 </p>
 
 ---
 
 ## 🎯 Engineering Focus
 
-🔹 Microservices communication patterns  
-🔹 Event-driven architecture  
-🔹 Message queues & streaming systems  
-🔹 Backend scalability & fault tolerance  
-🔹 Clean Architecture & SOLID principles  
+✔ Microservices communication patterns  
+✔ Event-driven architecture  
+✔ Kafka & message streaming  
+✔ Backend scalability & fault tolerance  
+✔ Clean Architecture & SOLID principles  
 
 ---
 
@@ -80,30 +78,28 @@ I build **systems that survive scale and change**.
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaya05&theme=radical&border_radius=8"/>
+  <img src="https://streak-stats.demolab.com?user=Jayarani05&theme=radical&border_radius=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaya05&theme=react-dark&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayarani05&theme=react-dark&bg_color=0d1117&hide_border=true"/>
 </p>
 
 ---
 
 ## 🧠 Problem Solving
 
-💡 Actively practicing **Data Structures & Algorithms** with focus on:
-- optimal solutions
-- clean logic
-- readability under pressure
+Actively practicing **Data Structures & Algorithms** with focus on:
+- optimal time & space complexity  
+- clean reasoning  
+- interview-ready solutions  
 
-🔗 LeetCode Profile  
-https://leetcode.com/u/jayaranimanimaran/
+🔗 https://leetcode.com/u/jayaranimanimaran/
 
 ---
 
 ## 🌐 Portfolio
 
-✨ Explore my work and system-oriented projects  
 🔗 https://jayarani.vercel.app/
 
 ---
@@ -111,12 +107,12 @@ https://leetcode.com/u/jayaranimanimaran/
 ## 🤝 Professional Presence
 
 💼 LinkedIn  
-https://www.linkedin.com/in/jayarani-m-28b9b9297/
+🔗 https://www.linkedin.com/in/jayarani-m-28b9b9297/
 
 ---
 
 <p align="center">
   <em>
-    “Backend systems should feel invisible — stable, reliable, and powerful.”
+    “Great backend systems are silent — stable, scalable, and reliable.”
   </em>
 </p>
