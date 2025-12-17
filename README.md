@@ -1,31 +1,47 @@
-<h1 align="center">✨ Jaya Rani ✨</h1>
+<h1 align="center">
+  <span style="color:#ff79c6;">✨ Jaya Rani ✨</span>
+</h1>
 
 <p align="center">
-  ☕ Java Backend Engineer &nbsp;·&nbsp; 🧩 Microservices Architect &nbsp;·&nbsp; 🌐 Distributed Systems Enthusiast
+  <span style="color:#f1fa8c;">☕ Java Backend Engineer</span> &nbsp;·&nbsp;
+  <span style="color:#8be9fd;">🧩 Microservices Architect</span> &nbsp;·&nbsp;
+  <span style="color:#50fa7b;">🌐 Distributed Systems Enthusiast</span>
 </p>
 
 <p align="center">
-  <a href="https://jayarani.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jayarani-m-28b9b9297/">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/jayaranimanimaran/">🧠 LeetCode</a>
+  <a href="https://jayarani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff79c6?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jayarani-m-28b9b9297/"><img src="https://img.shields.io/badge/LinkedIn-8be9fd?style=for-the-badge&logo=linkedin&logoColor=0a66c2"></a>
+  <a href="https://leetcode.com/u/jayaranimanimaran/"><img src="https://img.shields.io/badge/LeetCode-f1fa8c?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 style="color:#bd93f9;">🚀 About Me</h2>
 
-I am a **Java Backend Engineer** who enjoys building  
-**scalable, fault-tolerant, and production-ready systems**.
+<p>
+I am a <strong>Java Backend Engineer</strong> who enjoys crafting  
+<strong>scalable, fault-tolerant, and production-grade systems</strong>.
+</p>
 
-What excites me:
-- asynchronous service communication  
-- event-driven systems  
-- backend architectures that scale under load  
+<p>
+I’m driven by how systems behave <em>under pressure</em> — not just when they work,  
+but when they fail, recover, and scale.
+</p>
 
+<h3 style="color:#ffb86c;">💡 What Excites Me</h3>
+
+<ul>
+  <li><span style="color:#8be9fd;">Asynchronous service communication</span></li>
+  <li><span style="color:#50fa7b;">Event-driven architectures</span></li>
+  <li><span style="color:#ff79c6;">Backend systems built for scale & resilience</span></li>
+</ul>
+
+<p>
 I don’t just write code —  
-I **engineer systems that survive real-world traffic**.
+<br/>
+<strong style="color:#f1fa8c;">I engineer systems that survive real-world traffic.</strong>
+</p>
 
----
 
 ## 🧠 Tech Stack
 
