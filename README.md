@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <span style="color:#f1fa8c;">☕ Java Backend Engineer</span> &nbsp;·&nbsp;
-  <span style="color:#8be9fd;">🧩 Microservices Architect</span> &nbsp;·&nbsp;
-  <span style="color:#50fa7b;">🌐 Distributed Systems Enthusiast</span>
+  <span style="color:#f1fa8c;"> Java Backend Engineer</span> &nbsp;·&nbsp;
+  <span style="color:#8be9fd;"> Microservices Architect</span> &nbsp;·&nbsp;
+  <span style="color:#50fa7b;"> Distributed Systems Enthusiast</span>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 style="color:#bd93f9;">🚀 About Me</h2>
+<h2 style="color:#bd93f9;"> About Me</h2>
 
 <p>
 I am a <strong>Java Backend Engineer</strong> who enjoys crafting  
@@ -28,7 +28,7 @@ I’m driven by how systems behave <em>under pressure</em> — not just when the
 but when they fail, recover, and scale.
 </p>
 
-<h3 style="color:#ffb86c;">💡 What Excites Me</h3>
+<h3 style="color:#ffb86c;"> What Excites Me</h3>
 
 <ul>
   <li><span style="color:#8be9fd;">Asynchronous service communication</span></li>
@@ -43,36 +43,36 @@ I don’t just write code —
 </p>
 
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### ☕ Backend & Core
+###  Backend & Core
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
 </p>
 
-### 🧩 Microservices & Messaging
+###  Microservices & Messaging
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" />
 </p>
 
-### 🛠️ Tools & Workflow
+###  Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux" />
 </p>
 
 ---
 
-## 🎯 Engineering Focus
+##  Engineering Focus
 
 ✔ Microservices communication patterns  
 ✔ Event-driven architecture  
@@ -103,7 +103,7 @@ I don’t just write code —
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 
 Actively practicing **Data Structures & Algorithms** with focus on:
 - optimal time & space complexity  
